@@ -27,4 +27,4 @@ https://kingtshire.github.io/crud
 
 Acknowledgements.
 
-I have used the foneawesome library for the fonts and some of the icons.
+I have used the fontawesome library for the fonts and some of the icons.
